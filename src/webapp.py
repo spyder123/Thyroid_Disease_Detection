@@ -41,7 +41,7 @@ class WebApp:
             st.title('Thyroid Disease Detection')
 
             # Adding a author name to the project
-            st.caption('A project by Shivam Shinde')
+            st.caption('A project by Sunil Zakane')
 
             # Making Predictions
             st.header('Make Prediction')
