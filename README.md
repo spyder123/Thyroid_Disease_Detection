@@ -12,7 +12,7 @@ disease or not.
 
 # Project Demonstration
 
-Check out the project demo at https://youtu.be/87POVM-wgbE
+Check out the project demo at
 
 # Deployed app link
 
@@ -113,7 +113,7 @@ Quinlan,Ross. (1987). Thyroid Disease. UCI Machine Learning Repository. https://
 Clone the project
 
 ```bash
-    git clone https://github.com/shivamshinde123/Thyroid_Disease_Detection_Internship.git
+    git clone https://github.com/spyder123/Thyroid_Disease_Detection_Internship.git
 ```
 
 Go to the project directory (let's say Thyroid-disease-detection)
