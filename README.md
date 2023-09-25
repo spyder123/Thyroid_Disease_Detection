@@ -16,7 +16,7 @@ Check out the project demo at
 
 # Deployed app link
 
-Check out the deployed app at 
+Check out the deployed app at https://thyroiddiseasedetection-erprpya3dkjxlunpc2ewxd.streamlit.app/
 
 # Project structure
 
